@@ -1,0 +1,19 @@
+{
+  "name": "arcanist-extensions",
+  "version": "1.0.0",
+  "description": "This project provides some useful extensions for [Arcanist](https://github.com/phacility/arcanist).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaswmanion/arcanist-extensions.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomaswmanion/arcanist-extensions/issues"
+  },
+  "homepage": "https://github.com/thomaswmanion/arcanist-extensions#readme"
+}
