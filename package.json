@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomaswmanion/arcanist-extensions.git"
+    "url": "git+https://github.com/adsk-ui/arcanist-extensions.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thomaswmanion/arcanist-extensions/issues"
+    "url": "https://github.com/adsk-ui/arcanist-extensions/issues"
   },
-  "homepage": "https://github.com/thomaswmanion/arcanist-extensions#readme"
+  "homepage": "https://github.com/adsk-ui/arcanist-extensions#readme"
 }
